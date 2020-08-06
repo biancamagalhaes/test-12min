@@ -4,7 +4,7 @@ The following test was inplemented with Expo, so to acess it you will need [expo
 
 ## Installation
 
-Use the [main](https://pip.pypa.io/en/stable/) folder to run the following comand.
+Use the [main](https://github.com/biancamagalhaes/test-12min) folder to run the following comand.
 
 ```bash
 yarn install
