@@ -15,6 +15,7 @@ export default function App(props: { navigation: any }) {
         contentContainerStyle={{
           display: "flex",
           height: "100%",
+          minHeight: 720,
           justifyContent: "space-between",
           flexDirection: "column",
         }}
@@ -43,7 +44,7 @@ export default function App(props: { navigation: any }) {
               uri:
                 "https://ideiasenegociosdigitais.com.br/wp-content/uploads/2018/02/aplicativo-12-minutos.png",
             }}
-            style={{ width: "35%", height: "100%", marginRight: 20 }}
+            style={{ width: "40%", height: "100%", marginRight: 20 }}
           />
         </View>
         <ImageTrack />
