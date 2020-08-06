@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "12min audiobook",
+    "slug": "audiobook",
+    "version": "1.0.0",
+    "sdkVersion": "38.0.0",
+    "platforms": ["ios", "android", "web"],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#3747A2"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
